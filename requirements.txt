@@ -1,0 +1,14 @@
+#
+###### Requirements without Version Specifiers ######
+#
+xlrd
+tkinter
+
+#
+###### Requirements with Version Specifiers ######
+#
+
+#
+###### Refer to other requirements files ######
+#
+
